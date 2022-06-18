@@ -1,3 +1,9 @@
 p{
-    color: paleturquoise;
+    color: rgb(7, 148, 148);
+}
+h3{
+    color: rgba(100, 128, 128, 0.89);
+}
+.red{
+    color: blueviolet;
 }
